@@ -1,7 +1,6 @@
 ---
 title: Angular Service Worker - PWA
 ---
-[完整代码](https://github.com/Mr-Seventeen98/ngpwa)
 使用 Angular Service Worker 和 Angular CLI 内置的 PWA 支持，将 Web 应用程序转换成可下载和安装的移动应用程序。
 
 在此过程中，将了解 Angular Service Worker 的设计及其背后的工作原理，并了解它的工作方式与其他构建时生成 Service Worker 的不同。
@@ -415,3 +414,5 @@ export class AppComponent  implements OnInit {
 ![5](http://jsnext.icu/20211120535245.png)
 
 如果用户单击`Ok`，则将重新加载完整的应用程序并显示新版本。请注意，如果我们没有向用户显示此对话框，则用户仍然会在下次重新加载时看到新版本。
+
+[完整代码](https://github.com/Mr-Seventeen98/ngpwa)
