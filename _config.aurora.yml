@@ -19,8 +19,8 @@ site:
   logo: https://avatars.githubusercontent.com/u/89928023?v=4
   avatar: https://avatars.githubusercontent.com/u/89928023?v=4
   beian:
-    number: ''
-    link: ''
+    number: '湘ICP备2022023917号-1'
+    link: 'http://beian.miit.gov.cn/'
   police_beian:
     number: ''
     link: ''
@@ -152,7 +152,7 @@ copy_protection:
 #! @docs https://aurora.tridiamond.tech/guide/site-meta.html#custom-meta
 #! ---------------------------------------------------------------
 aurora_bot:
-  enable: true
+  enable: false
   locale: cn
   bot_type: dia
   tips:
